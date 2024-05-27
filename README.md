@@ -52,42 +52,42 @@ This project focuses on generating captions for images using a combination of a 
 ### Images and Captions after 10 Epochs
 
 ![Image 1](results/epoch_10_1.png)\
-*Original Caption:* A toddler in a beige suit is smiling whilst playing in the snow\
+*Original Caption:* A toddler in a beige suit is smiling whilst playing in the snow .\
 *Predicted Caption:* <SOS> a little girl in a pink dress is running on a field . <EOS>
 
-![Image 2](results/epoch_10_2.png)
-*Original Caption:* The man wears a white hat and poses with a blonde woman and a black haired woman .
+![Image 2](results/epoch_10_2.png)\
+*Original Caption:* The man wears a white hat and poses with a blonde woman and a black haired woman .\
 *Predicted Caption:* <SOS> a man and a woman are sitting on a bench . <EOS>
 
 ### Images and Captions after 20 Epochs
 
-![Image 3](results/epoch_20_1.png)
-*Original Caption:* A group of mountain climbers
+![Image 3](results/epoch_20_1.png)\
+*Original Caption:* A group of mountain climbers .\
 *Predicted Caption:* <SOS> a snowboarder is in the air over a snowy hill . <EOS>
 
 
-![Image 4](results/epoch_20_2.png)
-*Original Caption:* Two brown and white puppies are playing tug of war with a blue strip of fabric .
+![Image 4](results/epoch_20_2.png)\
+*Original Caption:* Two brown and white puppies are playing tug of war with a blue strip of fabric .\
 *Predicted Caption:* <SOS> a dog is running through the grass . <EOS>
 
 ### Images and Captions after 30 Epochs
 
-![Image 5](results/epoch_30_1.png)
-*Original Caption:* A man wearing a red jacket standing beside a yellow canoe on some rocks with water in the background
+![Image 5](results/epoch_30_1.png)\
+*Original Caption:* A man wearing a red jacket standing beside a yellow canoe on some rocks with water in the background .\
 *Predicted Caption:* <SOS> a man is standing on the beach by the ocean . <EOS>
 
-![Image 6](results/epoch_30_2.png)
-*Original Caption:* three dogs are running across the grass near to a blue industrial building .
+![Image 6](results/epoch_30_2.png)\
+*Original Caption:* three dogs are running across the grass near to a blue industrial building .\
 *Predicted Caption:* <SOS> a dog is running through the grass . <EOS>
 
 ### Images and Captions after 40 Epochs
 
-![Image 7](results/epoch_40_1.png)
-*Original Caption:* A man is standing in front of a motor-scooter holding up a picture .
+![Image 7](results/epoch_40_1.png)\
+*Original Caption:* A man is standing in front of a motor-scooter holding up a picture .\
 *Predicted Caption:* <SOS> a man in a black jacket is standing in front of a white brick building . <EOS>
 
-![Image 8](results/epoch_40_2.png)
-*Original Caption:* A dog jumps to catch a ball in a large field .
+![Image 8](results/epoch_40_2.png)\
+*Original Caption:* A dog jumps to catch a ball in a large field .\
 *Predicted Caption:* <SOS> a dog jumps over a hurdle . <EOS>
 
 
