@@ -51,5 +51,5 @@ This project focuses on generating captions for images using a combination of a 
 
 ## Conclusion
 
-This project demonstrates the process of image caption generation using a combination of CNN (EfficientNetV2M) for image encoding and LSTM for caption generation. The generated captions improve as the training progresses, highlighting the effectiveness of the Encoder-Decoder architecture for this task.
+This project demonstrates the process of image caption generation using a combination of EfficientNetV2M for image encoding and LSTM for caption generation. The generated captions improve as the training progresses, highlighting the effectiveness of the Encoder-Decoder architecture for this task.
 
