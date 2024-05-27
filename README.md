@@ -51,8 +51,8 @@ This project focuses on generating captions for images using a combination of a 
 ## Results 
 ### Images and Captions after 10 Epochs
 
-![Image 1](results/epoch_10_1.png)//
-*Original Caption:* A toddler in a beige suit is smiling whilst playing in the snow//
+![Image 1](results/epoch_10_1.png)\
+*Original Caption:* A toddler in a beige suit is smiling whilst playing in the snow\
 *Predicted Caption:* <SOS> a little girl in a pink dress is running on a field . <EOS>
 
 ![Image 2](results/epoch_10_2.png)
